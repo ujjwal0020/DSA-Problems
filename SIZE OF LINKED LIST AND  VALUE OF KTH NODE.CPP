@@ -78,3 +78,4 @@ int main() {
 	cout<<"size: "<<getSizeOfLinkedList(head)<<"\n";
 	cout<<"val of Kth Node "<<getKthNodeOfLinkedList(head,k)->data<<"\n";
 }
+
