@@ -27,6 +27,7 @@ node*createlist(int n,node*head)
         }
         ptr->next=k;
         }
+
     }
      return head;
 }
